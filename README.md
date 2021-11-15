@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Performing analysis on Kickstarter to uncover trends
+# An Analysis of Kickstarter Campaigns
+## Performing analysis on Kickstarter to uncover trends
