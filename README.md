@@ -1,4 +1,4 @@
-# Kick Starter Outcomes
+# Kickstarter Outcomes
 
 ## Perform Analysis on Kickstarter to Uncover Trends
 
@@ -14,10 +14,10 @@
 
 ## Results
 
- -Kickstarters with Launches in May, Jun and July are most successful, however they see most failure also, due to these being the months that have the most number of Kickstarters   launched.
+ -  Kickstarters with Launches in May, Jun and July are most successful, however they see most failure also, due to these being the months that have the most number of     Kickstarters launched.
 
 - Kickstarters with goals under $5000 are most successful. 
 
-- Limitation I found with this data set is it is lacking identification for what the money is to be used for, therefore not sure that all Kickstarters are equal.
+- Limitation I found with this data set is, it is lacking identification for what the money is to be used for, therefore not sure that all Kickstarters are equal.
 
 - A Bar Chart would work well in the Outcomes by Launch Date. Additionally a Sunburst or Pie Chart would be pleasing to the eye for the Goals.
